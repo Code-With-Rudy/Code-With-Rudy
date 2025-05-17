@@ -19,8 +19,8 @@
 
 ### 🔧 Tech Stack
 
-- **Languages**: Python, C/C++, HTML, JavaScript, TeX  
-- **Frameworks/Tools**: OpenCV, Tkinter, Flask, Pygame, Git  
+- **Languages**: Python, C/C++, HTML, JavaScript, CSS 
+- **Frameworks/Tools**: OpenCV, Tkinter, Flask, Pygame, Git ,Django ,MySQL  
 - **Domains**: Embedded Systems, Signal Processing, Machine Learning  
 
 ---
@@ -39,6 +39,7 @@
 - 🔗 Blog: [codewithrudy.blogspot.com](https://codewithrudy.blogspot.com)  
 - 📸 Instagram: [@rudranil.exe](https://www.instagram.com/rudranil.exe)  
 - 💼 HackerRank: [RudranilGoswami3](https://www.hackerrank.com/profile/RudranilGoswami3)
+- 🥇 linkedin: [RudranilGoswami](https://www.linkedin.com/in/rudranil-goswami-a94298329/)
 
 ---
 
