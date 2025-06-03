@@ -9,8 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **B.Tech in ECE** @ GNIT  
-- 🎓 **B.Sc in Data Science** @ IIT Madras  
+- 🎓 **B.Tech in ECE** @ GNIT   
 - 💻 **Software Developer** and **Python Enthusiast**  
 - 🥇 **HackerRank Global Rank 1 in Python**  
 - 🔬 Passionate about **AI/ML, IoT, and Data Science**
